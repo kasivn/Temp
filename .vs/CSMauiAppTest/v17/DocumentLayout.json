@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|c:\\users\\kask\\documents\\casebuddy.casedata\\2401220050000026_pradeep\\2024-02-01\\csmauiapptest (1)\\csmauiapptest\\csmauiapptest\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|solutionrelative:csmauiapptest\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|c:\\users\\kask\\documents\\casebuddy.casedata\\2401220050000026_pradeep\\2024-02-01\\csmauiapptest (1)\\csmauiapptest\\csmauiapptest\\signalr_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|solutionrelative:csmauiapptest\\signalr_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|c:\\users\\kask\\documents\\casebuddy.casedata\\2401220050000026_pradeep\\2024-02-01\\csmauiapptest (1)\\csmauiapptest\\csmauiapptest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|solutionrelative:csmauiapptest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|c:\\users\\kask\\documents\\casebuddy.casedata\\2401220050000026_pradeep\\2024-02-01\\csmauiapptest (1)\\csmauiapptest\\csmauiapptest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{647C236B-0EFF-471B-8A65-3AA595130553}|CSMauiAppTest\\CSMauiAppTest.csproj|solutionrelative:csmauiapptest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:438619100:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalR_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\SignalR_Page.xaml.cs",
+              "RelativeDocumentMoniker": "CSMauiAppTest\\SignalR_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\SignalR_Page.xaml.cs",
+              "RelativeToolTip": "CSMauiAppTest\\SignalR_Page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:57:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CSMauiAppTest\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MainPage.xaml",
+              "RelativeToolTip": "CSMauiAppTest\\MainPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T10:42:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CSMauiAppTest\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MainPage.xaml.cs",
+              "RelativeToolTip": "CSMauiAppTest\\MainPage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD8vzsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:04:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CSMauiAppTest\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kask\\Documents\\CaseBuddy.CaseData\\2401220050000026_Pradeep\\2024-02-01\\CSMauiAppTest (1)\\CSMauiAppTest\\CSMauiAppTest\\MauiProgram.cs",
+              "RelativeToolTip": "CSMauiAppTest\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:04:44.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

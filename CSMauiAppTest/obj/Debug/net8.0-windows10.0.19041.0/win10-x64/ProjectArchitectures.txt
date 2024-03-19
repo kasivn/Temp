@@ -1,0 +1,1 @@
+C:\Users\kask\Documents\CaseBuddy.CaseData\2401220050000026_Pradeep\2024-02-01\CSMauiAppTest (1)\CSMauiAppTest\CSMauiAppTest\CSMauiAppTest.csproj;x64
